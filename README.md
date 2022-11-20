@@ -2,4 +2,4 @@
 
 ### Geek - Факультет Разработчик
 
-* [Введение в контроль версий - git]()<br>
+* [Введение в контроль версий - git](https://github.com/NadezhdaBrin/GeekBrains/tree/main/Git/)<br>
